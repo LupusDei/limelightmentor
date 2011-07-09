@@ -1,0 +1,69 @@
+body {
+    background: #caff90;
+    font-family: sans-serif;
+    width: 42em;
+    margin: auto;
+}
+
+h1 {
+  font-family: Helvetica;
+}
+
+.mentor-header {
+  font-size: 2.25em;
+  color: black;
+
+}
+
+.mentor {
+  font-style: italic;
+}
+
+.limelight {
+  color: #8CC63F;
+  font-family: Sans-Serif;
+  font-weight: bold;
+}
+
+
+.description {
+  font-size: 1em;
+  line-height: 1.5em;
+  margin-left: 16%;
+  width: 30em;
+}
+
+.description h2 {
+  font-size: 1.3em;
+  width: 13em;
+}
+
+.description p {
+  font-family: "FrescoPlusNormal", Georgia, serif;
+  text-align: left;
+}
+
+.description h3 {
+  font-family: "FrescoSansPlusBold", Helvetica, Arial, sans-serif;
+  font-size: 1em;
+  margin-top: 1.8em;
+  margin-bottom: -.333em;
+}
+
+.talk {
+  text-decoration: underline;
+}
+
+.gaeshi {
+  text-align: center;
+  padding: 4.5em 0 0 0;
+}
+
+.gaeshi span {
+  font-size: .8em;
+  padding-top: 1.2em 0 0 0
+}
+
+.ruby {
+  color: #C61A1A;
+}
